@@ -67,3 +67,10 @@ The following dependencies are required to run the project:
 - zipp==3.15.0
 
 Make sure to install these dependencies before running the application.
+
+## Lisence
+
+Copyright (c) [2023] [Faraaz]. All rights reserved.
+
+
+
