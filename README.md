@@ -68,6 +68,10 @@ The following dependencies are required to run the project:
 
 Make sure to install these dependencies before running the application.
 
+## Preview
+![Preview one](./app/static/preview/preview1.png)
+![Preview one](./app/static/preview/preview2.png)
+
 ## Lisence
 
 Copyright (c) [2023] [Faraaz]. All rights reserved.
